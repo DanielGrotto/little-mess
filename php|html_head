@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h1><head> Teste </h1></head>
+
+<?php
+    $idade = 28;
+    $nome = "Tonho";
+    $emprego = "bodega";
+    $ocup = "estudando programação";
+echo "$nome tem $idade anos e trabalha no $emprego e atualmente está $ocup";
+?> 
+
+</body>
+</html>
