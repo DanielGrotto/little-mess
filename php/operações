@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8"/>
+
+<h1><head>Operações Aritméticas</h1></head>
+<head>Entre 3 e 2</head>
+
+<boby>
+<div>
+<?php
+	$n1 = 3;
+    $n2 = 2;
+    
+    echo "</br>A soma vale ".($n1+$n2);
+    echo "<br/>A subtração vale ".($n1-$n2);
+    echo "<br/>A multiplicação vale ".($n1*$n2);
+    echo "<br/>O módulo vale ".($n1%$n2);
+?> 
+
+</body>
+</html>
