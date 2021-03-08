@@ -17,7 +17,7 @@
     echo "<br/>A divisão vale ".($n1/$n2);
     echo "<br/>O módulo vale ".($n1%$n2);
     echo "<br/>A média vale $m"; 
-?> 
+
 ?> 
 
 </body>
